@@ -1,0 +1,6 @@
+[History]
+1=#P0#=mb	#P1#=cmdAnalyze_Click	#P2#=Project1/Log_Analyzer/cmdAnalyze_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210406145428	#P7#=0	#P8#=15	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Log_Analyzer/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210406135741	#P7#=0	#P8#=2	.
+3=#P0#=mb	#P1#=Drive_Change	#P2#=Project1/Log_Analyzer/Drive_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210322173051	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=File_Click	#P2#=Project1/Log_Analyzer/File_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210322162539	#P7#=0	#P8#=-1	.
+5=#P0#=mb	#P1#=Dir_Change	#P2#=Project1/Log_Analyzer/Dir_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210322151001	#P7#=0	#P8#=1	.
