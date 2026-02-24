@@ -1,4 +1,4 @@
-# Log Analysis Tool
+# Log Analyser
 
 Log analysis utility designed to process very large log files and extract
 security, access and system-related events in a concise and readable format.
